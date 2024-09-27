@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <br>
 <p> This is my <strong>FIRST</Strong> original repository creation </p>
 <br>
+<p> I'm  currently learning web communications at SAIT</p>
+<p> Im very excited to learn more about custom HTML and CSS for use with template website builders</p>
