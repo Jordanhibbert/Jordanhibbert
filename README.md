@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Jordanhibbert/Jordanhibbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>Hello, World 👋</p>
+<br>
+<p> This is my <strong>FIRST</Strong> original repository creation </p>
+<br>
