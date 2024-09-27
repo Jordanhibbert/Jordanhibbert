@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 <br>
 <p> I'm  currently learning web communications at SAIT</p>
 <p> Im very excited to learn more about custom HTML and CSS for use with template website builders</p>
-<p> If you want to see my previous graphic design work <a value=https://www.jordanhibbert.com/ >check out my website</a>
+
+<p> If you want to see my previous graphic design work <a href=https://www.jordanhibbert.com/ >check out my website</a>
+
 <p> I'm excited to implement what I learn into my own website</p>
